@@ -13,10 +13,10 @@ Falsch beantwortete Wörter werden dann so lange wiederholt, bis der Lernende si
 
 == 3. Konsequenzen bei Nichtdurchführung
 - Lernende müssten weiterhin Papierlisten oder eigene Notizen verwenden. Dabei würden sie Wörter wiederholen, die sie schon kennen, und die schwierigen auslassen, die sie noch nicht beherrschen.  
-- Weder Schüler*innen noch Lehrkräfte würden klare Informationen über den Lernfortschritt erhalten.  
+- Weder SchülerInnen noch Lehrkräfte würden klare Informationen über den Lernfortschritt erhalten.  
 - Durch den höheren Aufwand und das fehlende Feedback würden weniger SchülerInnen das gewünschte Sprachniveau erreichen.
 
 == 4. Personelle und finanzielle Rahmenbedingungen
-- Team: 3–4 ProgrammiererInnen  
+- Team: 3–4 Programmierer 
 - Zeitplan: etwa 2 Monate von Beginn bis Fertigstellung (geschätzt)  
 - Finanzen: Es werden kostenlose Open-Source-Bibliotheken verwendet, daher entstehen keine zusätzlichen Kosten.
